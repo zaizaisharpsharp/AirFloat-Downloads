@@ -20,7 +20,8 @@ artifact privacy gate. Do not interpret an absent Mac download as installation
 success. A new public test candidate must disclose its actual signing and
 notarization status.
 
-The Windows test package is unsigned. A normal signed MSIX installation remains
+No installers or release assets have been published. The Windows test package is
+unsigned and is also held from publication. A normal signed MSIX installation remains
 blocked until a trusted publisher signature is available. Do not install a
 development certificate, enable Developer Mode or disable Windows protections to
 make this package install. The framework-dependent build requires Microsoft's
